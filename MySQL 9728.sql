@@ -1,3 +1,4 @@
+--CITY OF SAN FRANCISCO ASKED FOR THIS TYPE OF QUESTION FOR SOME DATA ANALYST GOV JOBS. 
 SELECT
     COUNT(violation_id) AS n_violations,
     YEAR(inspection_date) 
