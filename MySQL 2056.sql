@@ -6,7 +6,7 @@ SELECT
 FROM
   amazon_shipment
 GROUP BY
-  DATE_FORMAT(shipment_date, '%Y-%m')
+  date_ym
 ORDER BY
   date_ym;
 -- THIS LESSON TAUGHT HOW TO FORMAT DATES FOR DIFFERENT TYPES OF ANALYSIS
