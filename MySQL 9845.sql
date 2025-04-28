@@ -8,4 +8,11 @@ WHERE
     department = 'Admin' 
     AND joining_date >= '2014-04-01'
 
--- THIS is one way to write the code or you can put the WHERE ones on the same line
+-- THIS IS ONE WAY TO WRITE THE CODE OR YOU CAN JUST DO THE MONTH BECUASE THEY DIDN"T SPECIFY WHICH YEAR
+SELECT
+    COUNT(worker_id)
+FROM
+    worker
+WHERE
+    MONTH(joining_date) >= 4
+    AND department = 'Admin'
