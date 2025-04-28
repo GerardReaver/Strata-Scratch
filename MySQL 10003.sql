@@ -11,3 +11,12 @@ FROM
 WHERE
     yearly_salary <= 30000
     OR yearly_salary >= 70000
+_____________________________________________________________________________________________________________
+# Easier method is to skip the alias because of the index function
+SELECT
+    *
+FROM
+    lyft_drivers
+WHERE
+    yearly_salary <= 30000
+    OR yearly_salary >= 70000
