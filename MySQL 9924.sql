@@ -5,7 +5,8 @@ SELECT
 FROM
     library_usage
 WHERE
-    notice_preference_definition = 'email'
-    AND provided_email_address < 1
+    notice_preference_definition = 'email' AND
+    provided_email_address = 0 AND
+    circulation_active_year = 2016
 GROUP BY
     home_library_code
