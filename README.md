@@ -1,4 +1,7 @@
 ## REPOSITORY TO PRACTICE REAL LIFE INTERVIEW QUESTIONS 
+
+Simple hit 'control + F' and type in the ID and the matching .SQL file will be located above. 
+
   1. 'Lyft Driver Wages' ID 10003 EASY
   2. 'Find all posts which were reacted to with a heart' ID 10087 EASY
   3. 'Finding Updated Records' ID 10299 EASY
