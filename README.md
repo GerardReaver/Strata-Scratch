@@ -9,8 +9,8 @@
   5. 'Bikes Last Used' ID 10176 EASY 😁
   6. 'Abigail Breslin Nomination' ID 10128 EASY 😁
   7. 'Popularity of Hack' ID 10061 EASY 😁
-  8. 'Election Results' ID 2099 MEDIUM 😐
-  9. 'Premium Accounts' ID 2097 MEDIUM 😐
+  8. 'Election Results' ID 2099 MEDIUM 🥶
+  9. 'Premium Accounts' ID 2097 MEDIUM 🥶
   10. 'Reviews of Hotel Arena' ID 10166 EASY 😁
   11. 'Artist Appearance Count' ID 9992 EASY 😁
   12. 'Captain Base Pay' ID 9972 EASY 😁
@@ -31,4 +31,4 @@
   27. 'Number of Shipments Per Month' ID 2056 EASY 😁
   28. 'Uniqwue Users Per Client Per Month' ID 2024 EASY 😁
   29. 'Workers With The Highest Salaries' ID 10353 EASY 😁
-  30. 'Top 10 Songs 2010' ID 9650 MEDIUM 😐
+  30. 'Top 10 Songs 2010' ID 9650 MEDIUM 🥶
